@@ -1,30 +1,51 @@
-# [<img align="left" width="30" style="margin-right: 0.75em;" scr="https://avatars.githubusercontent.com/u/65256945?v=4">](#) Hugo WARNOTTE
+<div align="center"><h1>Hugo WARNOTTE</h1></div>
 
-[Fr] Ce github me sert de dépôt pour mes projets personnels. Ils sont actuellement fait dans le suivi de ma [formation](https://technifutur.be/event/developpeur-web-full-stack/). ⚠️ Ce read me et ce qu'il contient est toujours en cours de création/amélioration, rien est définitif ⚠️
+[FR] Ce github me sert de dépôt pour mes projets personnels. Ils sont actuellement réalisés dans le suivi de ma [formation](https://technifutur.be/event/developpeur-web-full-stack/).<br>
+⚠️Ce read me et ce qu'il contient est toujours en cours de création/amélioration⚠️
+</br></br>
 
-[Eng] This github is used for my personal project. For now, they're down during my [training](https://technifutur.be/event/developpeur-web-full-stack/). ⚠️ This read me and what's inside it is still a work in progress, nothing's set ⚠️
+[ENG] This github is used for my personal projects. Currently, they're done during my [training](https://technifutur.be/event/developpeur-web-full-stack/).<br>
+⚠️This read me and what it contains is still a work in progress⚠️
 
 ## Mon projet phare actuel / My best curent project :
 
-### [Mon book !](https://vaganuki.github.io/book)
+### [Mon/My book !](https://vaganuki.github.io/book)
+<b>[FR]</b></br>
 
-    C'est une page web destinée à toute personne voulant me découvrir, moi, mes idées et mes capacités !
-Curieux de retrouver mes comits, ma méthodologie ou simplement mon code ? Ça se trouve [ici](https://github.com/Vaganuki/book) !
+C'est une page web destinée à toute personne voulant me découvrir, moi, mes idées et mes capacités ! </br>
+Curieux de retrouver mes comits, ma méthodologie ou simplement mon code ? <i>Ça se trouve [ici](https://github.com/Vaganuki/book) !</i>
 
-On y trouve de multiple easter egg :
+On y trouve de multiple easter egg, je vous laisse quelques indices :
 ```
 - "Link" ? Ça m'est familié...
 - Elles sont sympa ces playlists ! Si seulement j'avais accès à toutes les autres!!
 - Un thème sombre c'est pratique ! Mais imaginez on clique trop de fois sur le bouton; 3 ou 5 fois par exemple...
 ```
 
-## Ce que vous avez vu vous plait ?
+<b>[ENG]</b></br>
 
-    Vous pouvez me retrouvez ici :
+This is a web page destined for anyone curious about me, my ideologies and skills ! </br>
+Want to see my comits, my workflow or simply my code ? <i>Find it [here](https://github.com/Vaganuki/book) !</i>
+
+You'll also find multiple easter egg, here are some hints :
+```
+- "Link" ? Sounds familiar...
+- Nice playlists ! If only there was a way to discover them all!!
+- I love that dark theme ! But imagine if i clicked many times on that button; 3 or 5 times perhaps...
+```
+
+## Ce que vous avez vu vous plait ? / You like what you're seeing ?
+<b>[FR]</b></br>
+### Vous pouvez me retrouvez ici :
 - [Tous mes liens](https://vaganuki.github.io/book/#linkTree)
 - [Mon Curriculum Vitae](https://www.canva.com/design/DAGQYVOALNI/uKaxy128L5twNBy3TQ9MRA/view?utm_content=DAGQYVOALNI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc0ce673f13)
 
-## Ce read me
+<b>[ENG]</b></br>
+### You can find me here :
+- [All my links](https://vaganuki.github.io/book/#linkTree)
+- [My Resume](https://www.canva.com/design/DAGQYVOALNI/uKaxy128L5twNBy3TQ9MRA/view?utm_content=DAGQYVOALNI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc0ce673f13)
+
+## Ce read me / This read me
 
 Sert d'exercice et est en cours de travail.
 
