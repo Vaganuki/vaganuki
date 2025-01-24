@@ -1,11 +1,11 @@
-<div align="center"><h1>Hugo WARNOTTE</h1></div>
+<div align="center"><img src="https://avatars.githubusercontent.com/u/65256945?v=4" align="center" width="100" style='border-radius:50%;'><h1>Hugo WARNOTTE</h1></div>
 
 [FR] Ce github me sert de dépôt pour mes projets personnels. Ils sont actuellement réalisés dans le suivi de ma [formation](https://technifutur.be/event/developpeur-web-full-stack/).<br>
-⚠️Ce read me et ce qu'il contient est toujours en cours de création/amélioration⚠️
+⚠️Ce read me, et ce qu'il contient, est toujours en cours de création/amélioration⚠️
 </br></br>
 
 [ENG] This github is used for my personal projects. Currently, they're done during my [training](https://technifutur.be/event/developpeur-web-full-stack/).<br>
-⚠️This read me and what it contains is still a work in progress⚠️
+⚠️This read me, and what it contains, is still a work in progress⚠️
 
 ## Mon projet phare actuel / My best curent project :
 
@@ -15,11 +15,11 @@
 C'est une page web destinée à toute personne voulant me découvrir, moi, mes idées et mes capacités ! </br>
 Curieux de retrouver mes comits, ma méthodologie ou simplement mon code ? <i>Ça se trouve [ici](https://github.com/Vaganuki/book) !</i>
 
-On y trouve de multiple easter egg, je vous laisse quelques indices :
+On y trouve de multiples easter eggs, je vous laisse quelques indices :
 ```
 - "Link" ? Ça m'est familié...
 - Elles sont sympa ces playlists ! Si seulement j'avais accès à toutes les autres!!
-- Un thème sombre c'est pratique ! Mais imaginez on clique trop de fois sur le bouton; 3 ou 5 fois par exemple...
+- Un thème sombre : c'est pratique ! Mais imaginez, si on cliquait trop de fois sur le bouton; 3 ou 5 fois par exemple...
 ```
 
 <b>[ENG]</b></br>
@@ -27,11 +27,11 @@ On y trouve de multiple easter egg, je vous laisse quelques indices :
 This is a web page destined for anyone curious about me, my ideologies and skills ! </br>
 Want to see my comits, my workflow or simply my code ? <i>Find it [here](https://github.com/Vaganuki/book) !</i>
 
-You'll also find multiple easter egg, here are some hints :
+You'll also find multiple easter eggs, here are some hints :
 ```
 - "Link" ? Sounds familiar...
 - Nice playlists ! If only there was a way to discover them all!!
-- I love that dark theme ! But imagine if i clicked many times on that button; 3 or 5 times perhaps...
+- I love that dark theme ! But imagine if i clicked too many times on that button; 3 or 5 times perhaps...
 ```
 
 ## Ce que vous avez vu vous plait ? / You like what you're seeing ?
