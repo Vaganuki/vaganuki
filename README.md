@@ -20,7 +20,7 @@ Bercé depuis ma plus tendre enfance par l'univers web, j'ai toujours aimé y pr
 Précédemment graphiste et tatoueur, j'ai également un très grand attrait pour le front-end et l'intégration.
 J'aime savoir que mes projets peuvent avoir une utilité, qu'ils touchent au divertissement ou aient une application dans la vie de tous les jours.
 
-J'ai su piquer votre curiosité ? Alors n'hésitez pas à jeter un coup d'œil [à mes projets](#img-srcpublicassetsiconsreceipt-solidsvg-height18px-tous-mes-projets-) !
+J'ai su piquer votre curiosité ? Alors n'hésitez pas à jeter un coup d'œil [à mes projets](#-tous-mes-projets-) !
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=vaganuki&locale=fr&show_icons=true&theme=tokyonight)
 
