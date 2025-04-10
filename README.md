@@ -5,11 +5,11 @@
 
 ## <img src="./public/assets/icons/list-solid.svg" height="18px"> Table des matières : 
 
-- [À propos de moi](#img-srcpublicassetsiconsfire-burner-solidsvg-height18px-à-propos-de-moi-)
-- [Mon dernier projet](#img-srcpublicassetsiconsprint-solidsvg-height18px-mon-dernier-projet-)
-- [Mes outils et technologies](#img-srcpublicassetsiconstachograph-digital-solidsvg-height18px-mes-outils-et-technologies-)
-- [Tous mes projets](#img-srcpublicassetsiconsreceipt-solidsvg-height18px-tous-mes-projets-)
-- [Où me retrouver](#img-srcpublicassetsiconsuser-plus-solidsvg-height18px-où-me-retrouver-)
+- [À propos de moi](#-à-propos-de-moi-)
+- [Mon dernier projet](#-mon-dernier-projet-)
+- [Mes outils et technologies](#-mes-outils-et-technologies-)
+- [Tous mes projets](#-tous-mes-projets-)
+- [Où me retrouver](#-où-me-retrouver-)
 
 ---
 
