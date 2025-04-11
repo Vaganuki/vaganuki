@@ -59,10 +59,13 @@ Technologie utilisée
 [![Mon book](https://github-readme-stats.vercel.app/api/pin/?username=vaganuki&repo=book&locale=fr&show_icons=true&theme=tokyonight)](https://github.com/vaganuki/book)
 
 ### <img src="./public/assets/icons/square-check-solid.svg" height="12px"> [Moi ou ton père ?](https://vaganuki.github.io/moiOuTonPere)
-[![Mon book](https://github-readme-stats.vercel.app/api/pin/?username=vaganuki&repo=moiOuTonPere&locale=fr&show_icons=true&theme=tokyonight)](https://github.com/vaganuki/moiOuTonPere)
+[![Moi ou ton père](https://github-readme-stats.vercel.app/api/pin/?username=vaganuki&repo=moiOuTonPere&locale=fr&show_icons=true&theme=tokyonight)](https://github.com/vaganuki/moiOuTonPere)
 
 ### <img src="./public/assets/icons/house-flood-water-solid.svg" height="12px"> [Is my computer underwater?](https://vaganuki.github.io/is-my-computer-under-water)
-[![Mon book](https://github-readme-stats.vercel.app/api/pin/?username=vaganuki&repo=is-my-computer-under-water&locale=fr&show_icons=true&theme=tokyonight)](https://github.com/vaganuki/is-my-computer-under-water)
+[![Is my computer underwater](https://github-readme-stats.vercel.app/api/pin/?username=vaganuki&repo=is-my-computer-under-water&locale=fr&show_icons=true&theme=tokyonight)](https://github.com/vaganuki/is-my-computer-under-water)
+
+### <img src="./public/assets/icons/shield-cat-solid.svg" height="12px"> [MTG Local Arena](https://vaganuki.github.io/mtg-local-arena)
+[![Mtg Local Arena](https://github-readme-stats.vercel.app/api/pin/?username=vaganuki&repo=mtg-local-arena&locale=fr&show_icons=true&theme=tokyonight)](https://github.com/Vaganuki/mtg-local-arena/#readme)
 
 ---
 
