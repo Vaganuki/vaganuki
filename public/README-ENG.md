@@ -7,7 +7,7 @@
 
 - [About me](#-about-me-)
 - [My last project](#-my-last-project-)
-- [My tools & technologies](#-my-tools-&-technologies-)
+- [My tools & technologies](#-my-tools--technologies-)
 - [All my projects](#-all-my-projects-)
 - [Where to find me](#-where-to-find-me-)
 
